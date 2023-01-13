@@ -3,7 +3,14 @@
 用来储存博客图片等资源  
 
 ### vampire610的图片集  
-1. cursor 指针  
-2. icon 图标  
-3. img 图片  
-4. loader 加载
+1. icon 图标  
+2. img 图片  
+
+使用格式
+
+```bash
+https://fastly.jsdelivr.net/gh/vampire610/cdn@latest/img/me.jpg
+```
+
+
+
